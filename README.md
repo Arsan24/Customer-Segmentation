@@ -54,7 +54,7 @@ Simulations suggest potential revenue increases of up to 92% with targeted strat
 ## How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/customer-segmentation.git
+   git clone https://github.com/Arsan24/Customer-Segmentation.git
 
 ## License
 
