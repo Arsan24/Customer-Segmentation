@@ -64,7 +64,6 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 For any inquiries or further information, feel free to contact:
 
-- **Name:** Nuzhairil Arsanurrahman  
 - **Email:** [arsan.nuzhairil@gmail.com](mailto:arsan.nuzhairil@gmail.com)  
 - **GitHub Profile:** [Arsan24](https://github.com/Arsan24)  
 - **LinkedIn:** [Nuzhairil Arsanurrahman](https://www.linkedin.com/in/nuzhairil-arsanurrahman-637315235/)
